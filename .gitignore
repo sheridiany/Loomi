@@ -1,1 +1,10 @@
 docs/
+
+node_modules/
+dist/
+*.tsbuildinfo
+.playwright-mcp/
+web/node_modules/
+web/dist/
+web/vite.config.js
+web/vite.config.d.ts

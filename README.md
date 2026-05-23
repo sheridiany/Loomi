@@ -1,6 +1,6 @@
-# goLoomi
+# Loomi
 
-goLoomi is an agent platform learning project. It follows the core capability progression of Arkloop at the mechanism level, while keeping its own brand, UI, naming, copy, and implementation structure.
+Loomi is an agent platform learning project. It follows the core capability progression of Arkloop at the mechanism level, while keeping its own brand, UI, naming, copy, and implementation structure.
 
 ## Goals
 
